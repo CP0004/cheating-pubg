@@ -1,5 +1,5 @@
 
-# Project CP Chearing
+# Project Chearing Pubg
 
 A cheating application for games. The application was built using MVVM, which excels in memory management, excellent data analysis, and wonderful graphics. It is considered a good project if one does not want to delve into cheating games.
 
